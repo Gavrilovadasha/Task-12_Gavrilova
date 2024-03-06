@@ -1,0 +1,30 @@
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\bin\Debug\net6.0\Task№12_Week1_Gavrilova.exe
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\bin\Debug\net6.0\Task№12_Week1_Gavrilova.deps.json
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\bin\Debug\net6.0\Task№12_Week1_Gavrilova.runtimeconfig.json
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\bin\Debug\net6.0\Task№12_Week1_Gavrilova.dll
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\bin\Debug\net6.0\Task№12_Week1_Gavrilova.pdb
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\Task№12_Week1_Gavrilova.csproj.AssemblyReference.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\Task№12_Week1_Gavrilova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\Task№12_Week1_Gavrilova.AssemblyInfoInputs.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\Task№12_Week1_Gavrilova.AssemblyInfo.cs
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\Task№12_Week1_Gavrilova.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\Task№12_Week1_Gavrilova.dll
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\refint\Task№12_Week1_Gavrilova.dll
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\Task№12_Week1_Gavrilova.pdb
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\Task№12_Week1_Gavrilova.genruntimeconfig.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\ref\Task№12_Week1_Gavrilova.dll
+C:\Users\gavri\Documents\3 курс\учебная практика\1 неделя\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\bin\Debug\net6.0\Task№12_Week1_Gavrilova.exe
+C:\Users\gavri\Documents\3 курс\учебная практика\1 неделя\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\bin\Debug\net6.0\Task№12_Week1_Gavrilova.deps.json
+C:\Users\gavri\Documents\3 курс\учебная практика\1 неделя\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\bin\Debug\net6.0\Task№12_Week1_Gavrilova.runtimeconfig.json
+C:\Users\gavri\Documents\3 курс\учебная практика\1 неделя\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\bin\Debug\net6.0\Task№12_Week1_Gavrilova.dll
+C:\Users\gavri\Documents\3 курс\учебная практика\1 неделя\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\bin\Debug\net6.0\Task№12_Week1_Gavrilova.pdb
+C:\Users\gavri\Documents\3 курс\учебная практика\1 неделя\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\Task№12_Week1_Gavrilova.csproj.AssemblyReference.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\1 неделя\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\Task№12_Week1_Gavrilova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Documents\3 курс\учебная практика\1 неделя\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\Task№12_Week1_Gavrilova.AssemblyInfoInputs.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\1 неделя\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\Task№12_Week1_Gavrilova.AssemblyInfo.cs
+C:\Users\gavri\Documents\3 курс\учебная практика\1 неделя\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\Task№12_Week1_Gavrilova.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\1 неделя\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\Task№12_Week1_Gavrilova.dll
+C:\Users\gavri\Documents\3 курс\учебная практика\1 неделя\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\refint\Task№12_Week1_Gavrilova.dll
+C:\Users\gavri\Documents\3 курс\учебная практика\1 неделя\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\Task№12_Week1_Gavrilova.pdb
+C:\Users\gavri\Documents\3 курс\учебная практика\1 неделя\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\Task№12_Week1_Gavrilova.genruntimeconfig.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\1 неделя\Task№12_Week1_Gavrilova\Task№12_Week1_Gavrilova\obj\Debug\net6.0\ref\Task№12_Week1_Gavrilova.dll
